@@ -3,8 +3,8 @@
 include("library/fonctions_php.php");
 include("parametre.php");
 $raphael=TRUE;
-include("include/header.php");
-include("banner.php");
+//include("include/header.php");
+//include("banner.php");
 
 echo 'toto';
 
