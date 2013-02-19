@@ -13,7 +13,7 @@ $jsheader2='
 <script charset="utf-8" type="text/javascript" src="js/jquery-ui/jquery-ui-1.8.min.js" language="javascript"></script>
 <script charset="utf-8" type="text/javascript" src="js/getUrlParam.js" language="javascript"></script>
 ';
-echo "<title>".$titleheader." [MESR/VD]</title>";
+echo "<title>".$titleheader." </title>";
 echo ' '.$jsheader;
 echo $jsheader2;
 //echo '<script src="js/jtip.js" type="text/javascript"></script>';
